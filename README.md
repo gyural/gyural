@@ -32,6 +32,9 @@ I majored in Computer Science
 [![Solved.ac
 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=dla9319)](https://solved.ac/su1715)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyural&theme=onedark)
+![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyural&count_private=true&show_icons=true&theme=onedark)
+
 <!--
 **gyural/gyural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
