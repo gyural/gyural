@@ -26,6 +26,7 @@ I majored in Computer Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+---
 
 **Problem Solving**
 
@@ -34,6 +35,13 @@ I majored in Computer Science
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyural&theme=onedark)    
 ![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyural&count_private=true&show_icons=true&theme=onedark)
+
+---
+
+### Velog 최신 글 📝
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/gyural?theme=dark&posts=3)
+
+---
 
 <!--
 **gyural/gyural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
