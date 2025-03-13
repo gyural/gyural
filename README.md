@@ -1,8 +1,6 @@
 
 # 임규성
   
-  
-안녕하세요 👋  임규성입니다.
 
 _다양한 개발 도메인과 기술 스택에 거리낌 없이 도전하며, 새로운 경험을 쌓는 것을 주저하지 않는 개발자입니다._
 
@@ -48,24 +46,7 @@ _다양한 개발 도메인과 기술 스택에 거리낌 없이 도전하며, �
 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=dla9319)](https://solved.ac/su1715)
 
 
-
 # Tech blog
 
 ### Velog 최신 글 📝
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/gyural?theme=dark&posts=3)
-
-
-<!--
-**gyural/gyural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
