@@ -32,14 +32,6 @@ _다양한 개발 도메인과 기술 스택에 거리낌 없이 도전하며, �
   <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
   <br>
 
-  <br> <strong>🤝 Collaboration</strong> <br>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <br>
-</div>
-
 # Projects
 * 2023 재난문자 시각화 맵 WeMap 개발(프론트) [코드](https://github.com/gyural/we-map-frontend/tree/develop)
 * 2024 모임일정 관리및 리마인더 알림 앱 모여봐요 개발(풀스택) [접속](https://www.moyeobwayo.com/) | [코드](https://github.com/gyural/moyeobwayo-BE)
