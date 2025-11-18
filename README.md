@@ -48,12 +48,16 @@ _SpringBoot를 주력기술로 백엔드에서 마주하는 다양한 문제해�
 2) [Redis 알람 워커로 비동기 처리]
 알람 발송 로직이 비지니스 로직 트랜잭션 내부에 위치해 알람 실패시에 전체가 롤백되는 꼬리효과가 발생했습니다.
 <br/> 이를 해결하기 위해 푸쉬/알림톡을 추상화한 알람워커를 구현해 비동기처리하며 해결했습니다.
+
+---
+
 ### Velog 최신 글 📝
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/gyural?theme=dark&posts=3)
 
 #### Problem Solving
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=dla9319)](https://solved.ac/su1715)
 
+---
 
 # ETC
 * <2025 코드잇 스프린트 스프링 백엔드 5기 중급 프로젝트 발표> - 1등 수상 🏆
