@@ -2,7 +2,7 @@
 # 임규성
   
 
-_SpringBoot를 주력기술로 백엔드에서 마주하는 다양한 문제해결을 통해 성장하는 개발자입니다._
+_SpringBoot를 주력기술로 백엔드에서 마주하는 다양한 문제해결을 통해 성장하는 중입니다._
 
 <div align=left><h1>⚡ Core Tech Stack</h1></div>
 
