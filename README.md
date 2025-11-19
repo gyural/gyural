@@ -24,7 +24,7 @@ _SpringBoot를 주력기술로 백엔드에서 마주하는 다양한 문제해�
 </div>
 
 # Projects
-### 1️⃣ 커뮤니티 서비스 덕후감(2025.10) [코드](https://github.com/sb5-Findex-team7/sb5-Findex-team7)
+### 1️⃣ 커뮤니티 서비스 덕후감(2025.10) [코드](https://github.com/sb5-team4/sb5-deokhugam-team4)
 1) [알림 중복 문제 해결]  [링크](https://velog.io/@gyural/%EC%A2%8B%EC%95%84%EC%9A%94%EB%A5%BC-%EB%88%8C%EB%A0%80%EC%9D%84-%EB%BF%90%EC%9D%B8%EB%8D%B0-%EC%95%8C%EB%A6%BC-%ED%8F%AD%ED%83%84%EC%9D%B4-%EC%98%A8%EB%8B%A4%EA%B3%A0) 
 <br/>기존 비지니스로직은 좋아요/취소 무한 반복시 알림이 무한으로 발생됐습니다. 이 문제를 해결하기위해 인메모리 캐시를 도입해, 알림 발송 권한 Lock을 통해 발송되게 리팩토링했습니다.
 
@@ -33,7 +33,7 @@ _SpringBoot를 주력기술로 백엔드에서 마주하는 다양한 문제해�
 <br/> 이를 해결하기 위해 좋아요/댓글 수 필드를 추가하는 역정규화를 진행했고 쿼리 성능을 95% 향상시켰습니다.
 <br/> 이후 대용량 트레픽 환경에서 좋아요/댓글 수 필드에 동시성 문제가 발생하는 사이드 이펙트가 발생했고, Optimistic Lock을 통해 해결했습니다.
 
-### 2️⃣ 투자 지수 대시보드 서비스 Findex(2025.09) [코드](https://github.com/sb5-team4/sb5-deokhugam-team4)
+### 2️⃣ 투자 지수 대시보드 서비스 Findex(2025.09) [코드](https://github.com/sb5-Findex-team7/sb5-Findex-team7)
 1) [커서 페이지네이션 성능 30% 향상]
 기존 오프셋 페이지네이션으로 페이지 깊이에 따른 응답속도가 저하되었습니다.
 <br/> 이를 해결하기 위해 커서페이지네이션 리팩토링과 커서필드에 인덱스를 추가해 API 조회성능을 30% 향상시켰습니다.
